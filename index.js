@@ -40,10 +40,10 @@ LessPluginRpxToRem.prototype = {
     },
     printUsage: function() { /* optional */
         console.log("");
-        console.log("rpx2torem Plugin");
-        console.log("specify plugin with --rpx2torem");
+        console.log("rpxtorem Plugin");
+        console.log("specify plugin with --rpxtorem");
         console.log("You can set the 'width' option to control the ratio of rpx to rem (default 750).");
-        console.log("eg. lessc --rpx2torem=\"width=750\" index.less index.css. ");
+        console.log("eg. lessc --rpxtorem=\"width=750\" index.less index.css. ");
         console.log("");
     },
     minVersion: [2, 0, 0] /* optional */

@@ -1,7 +1,7 @@
 {
   "name": "less-plugin-rpxtorem",
-  "version": "0.0.1",
-  "description": "Convert rpx to rem plugin for less.js",
+  "version": "0.0.2",
+  "description": "Convert rpx to rem plugin for less.js base in width",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
