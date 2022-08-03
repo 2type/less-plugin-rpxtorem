@@ -1,0 +1,31 @@
+{
+  "name": "less-plugin-rpxtorem",
+  "version": "0.0.1",
+  "description": "Convert rpx to rem plugin for less.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "less plugins",
+    "rpx",
+    "rem",
+    "rpx2rem"
+  ],
+  "engines": {
+    "node": ">=6.10"
+  },
+  "author": "tangoboy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/2type/less-plugin-rpxtorem/issues"
+  },
+  "github": "https://github.com/fengdi/less-plugin-rpxtorem",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2type/less-plugin-rpxtorem.git"
+  },
+  "dependencies": {
+
+  }
+}
